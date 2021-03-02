@@ -13,7 +13,7 @@ fs.readFile("./config.json", "utf8", (err, data) => {
    startPolling();
   }
 })
-const outputFile = "C:\\Users\\varun\\Documents\\ActivityMonitor.org";
+const outputFile = "%USERPROFILE%/Documents/ActivityMonitor.org";
 
 function getCurrTime() {
   return Math.floor(Date.now()/1000);
