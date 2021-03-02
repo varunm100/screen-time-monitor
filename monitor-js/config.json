@@ -1,0 +1,69 @@
+{
+    "pollingFreq": 1000,
+    "autosaveFreq": 10000,
+    "data": [
+    {
+        "id": 0,
+        "type": "idle",
+        "keywords": ["New Tab"],
+        "isWebsite": true
+    },
+    {
+        "id": 1,
+        "type": "other"
+    },
+    {
+        "id": 2,
+        "type": "webbrowsing"
+    },
+    {
+        "id": 3,
+        "type": "discord",
+        "keywords": [" - Discord"]
+    },
+    {
+        "id": 4,
+        "type": "spotify",
+        "keywords": ["Spotify"]
+    },
+    {
+        "id": 5,
+        "type": "emacs",
+        "keywords": ["emacs"]
+    },
+    {
+        "id": 6,
+        "type": "vs",
+        "keywords": ["Visual Studio"]
+    },
+    {
+        "id": 7,
+        "type": "youtube",
+        "keywords": ["YouTube"],
+        "isWebsite": true
+    },
+    {
+        "id": 8,
+        "type": "netflix",
+        "keywords": ["Netflix"],
+        "isWebsite": true
+    },
+    {
+        "id": 9,
+        "type": "twitch",
+        "keywords": ["twitch"],
+        "isWebsite": true
+    },
+    {
+        "id": 10,
+        "type": "reddit",
+        "keywords": ["reddit"],
+        "isWebsite": true
+    },
+    {
+        "id": 11,
+        "type": "anime",
+        "keywords": ["AnimeKisa"]
+    }
+    ]
+}
